@@ -19,4 +19,4 @@ of a color scheme
 * Wolfram Mathematica 12.0
 * OpenCV
 
-Detailed description of the algorithms and the implementation are described in paper which can be provided upon request.
+Detailed descriptions of the algorithms and the implementation are described in paper which can be provided upon request.
